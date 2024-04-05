@@ -1,5 +1,5 @@
-Hey there, please dont judge my poor code. I am learning still :)
+Hello! I am a software engineer and developer who can code full-stack websites in React or Spring with various stacks.
 
-I am mostly interested in Java, C# and Python.
+I also know how to code desktop app with C/C++, C#, Python but most of these skills were self-taught.
 
-Most of my repositories are private, some of the public ones feel free to do whatever with their code unless I added a license to the repo.
+My GitHub is mostly filled with passion projects completely unrelated to my work. These are usually either game dev projects or a small desktop apps.
